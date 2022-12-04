@@ -12,7 +12,7 @@ There are some steps you need to folllow to execute your programme -
 
 * Write down the following command line instruction to run the program
   ```bash
-  pythonw main.py
+  python main.py
   ```
 
 * To stop the programme you have to open `Task Manager` & find the `python` programme.
